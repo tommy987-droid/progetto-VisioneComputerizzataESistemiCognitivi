@@ -1,0 +1,7 @@
+{
+    "optimizer": "Adam",
+    "lr": 0.01,
+    "momentum": 0.0,
+    "weight_decay": 1e-05,
+    "acc": 77.8
+}
