@@ -17,3 +17,10 @@ Apri il terminale e digita:
 git clone https://github.com/tommy987-droid/progetto-VisioneComputerizzataESistemiCognitivi
 ```
 ### 2. Aprire il file progetto.ipynb ed eseguire le celle indicate
+
+---
+
+## Authors
+
+- [@tommy987-droid](https://github.com/tommy987-droid)
+- [Linkedin](http://linkedin.com/in/tommasomuraca)
